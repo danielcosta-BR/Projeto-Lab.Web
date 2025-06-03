@@ -1,2 +1,9 @@
 # Projeto-Lab.Web
-Este reposítório terá um documento README para a validação da atividade de Laboratório Web feito na minha escola.
+
+Objetivo: O objetivo deste projeto é o desenvolvimento de 2 páginas web que tenha o portifólio de duas pessoas: Bruno e Ezequiel.
+
+Ferramentas Utilizadas: GitHub (documentação), WordPress (desenvolvimento) e Trello (planejamento)
+
+Links:
+
+Screenshots:
