@@ -15,5 +15,3 @@ Portfólio da Gabi: https://gabivieira08.wordpress.com/
 Portfólio do Ezequiel: https://ezequiel340.wordpress.com/?_gl=1*dsc4pf*_gcl_au*OTcwMzgwODAzLjE3NDg4NjAxNDcuMTY3MjgwMzM1MC4xNzQ5MTIyMjYzLjE3NDkxMjMzNjk
 
 Portfólio do Bruno: https://portfolio80390.wordpress.com/
-
-Screenshots:
